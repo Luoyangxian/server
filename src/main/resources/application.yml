@@ -1,5 +1,5 @@
 server:
-  port: 9405
+  port: 9406
 
 
 eureka:
